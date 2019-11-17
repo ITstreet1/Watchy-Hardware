@@ -1,2 +1,3 @@
-# Watchy-Hardware
-Watchy - An Open Source E-Ink Smartwatch
+# Watchy
+
+Schematics and 3D case files for Watchy
