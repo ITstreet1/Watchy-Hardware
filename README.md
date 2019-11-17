@@ -1,3 +1,3 @@
 # Watchy
 
-Schematics and 3D case files for Watchy
+Schematics and STL files for Watchy
